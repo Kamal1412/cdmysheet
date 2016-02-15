@@ -1,0 +1,48 @@
+header{
+background:#0000FF;
+float:0;
+left:0;
+width:100%;
+z-index:999;
+position:fixed
+}
+body{
+background-color:#F5F5F5;
+text-align: center;
+border-color: #559FC2
+}
+ h1{
+margin-left: 5%
+
+}
+h2{
+padding: 30px 35px;
+margin: -10px -50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+}	
+.login{
+margin:0% 35%; 
+}
+@media (min-width: 1200px){
+.container {
+     width: auto !important;
+
+}
+}
+@media (min-width: 992px){
+.container {
+     width: auto !important;
+}
+}
+@media (min-width: 768px){
+.container {
+     width: auto !important; 
+}
+}
+.container {
+     padding-right: 0px !important; 
+     padding-left: 0px !important; 
+     margin-right: 0px !important; 
+     margin-left: 0px !important; 
+}
